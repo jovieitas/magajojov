@@ -9,17 +9,19 @@ Eduardo Mangeli
 1 – Encontre referências e comente: 
 a.	A relação entre a LGPD e os Data Centers no Brasil 
 
-A Lei Geral de Proteção de Dados (LGPD) existe para que se faça cumprir a segurança das informações, e com ela se exigiu que muitas empresas tivessem que se 
-adaptar a novas regras de privacidade de dados. Logo, com os Data Centers não foi diferente, já que uma das funções mais importantes de um Data Center é assegurar 
-que os dados e sistemas hospedados nele possam ser acessados a qualquer momento. Então, considerando-se que o Data Center do controlador dos dados é o local onde
-rodam os sistemas nos quais tais informações são instaladas e mantidas, é essa a estrutura que deve, prioritariamente, operar com base nos preceitos da LGPD.
+A Lei Geral de Proteção de Dados (LGPD) existe para que se faça cumprir a segurança das informações, e com ela se exigiu que muitas
+empresas tivessem que se adaptar a novas regras de privacidade de dados. Logo, com os Data Centers não foi diferente, já que uma das
+funções mais importantes de um Data Center é assegurar que os dados e sistemas hospedados nele possam ser acessados a qualquer momento.
+Então, considerando-se que o Data Center do controlador dos dados é o local onde rodam os sistemas nos quais tais informações são
+instaladas e mantidas, é essa a estrutura que deve, prioritariamente, operar com base nos preceitos da LGPD.
 
 b.	Formatos de arquivos de dados proprietários e abertos
-O formato aberto tem como principal objetivo garantir o acesso aos dados ao longo prazo, sem inseguranças jurídicas ou restrições devidas às especificações técnicas, 
-e também incentivar a concorrência, ao invés de permitir que um único fabricante detenha o controle sobre um formato proprietário. Isto é, o formato aberto é livre de 
-restrições legais para seu uso. Já o formato proprietário é controlado por interesses privados. Sendo assim, o usuário corre o risco de perder todas as informações contidas
-no arquivo caso o software pare de funcionar, já que não teria outro sistema capaz de processá-las. Desse modo, todas as informações coletadas nos arquivos públicos (órgãos, 
-instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis em muito pouco tempo.
+O formato aberto tem como principal objetivo garantir o acesso aos dados ao longo prazo, sem inseguranças jurídicas ou restrições devidas
+às especificações técnicas, e também incentivar a concorrência, ao invés de permitir que um único fabricante detenha o controle sobre um 
+formato proprietário. Isto é, o formato aberto é livre de restrições legais para seu uso. Já o formato proprietário é controlado por 
+interesses privados. Sendo assim, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de 
+funcionar, já que não teria outro sistema capaz de processá-las. Desse modo, todas as informações coletadas nos arquivos públicos
+(órgãos, instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis em muito pouco tempo.
 
  b.1 forneça exemplos de formatos 
 
@@ -37,13 +39,15 @@ SVG - Desenho vetorial
 
 b.2 discuta as implicações relacionadas a dados públicos 
 
-A abertura de dados públicos representa um fator essencial para a manutenção de regimes democráticos. Através dessas práticas de transparência,
-torna-se possível uma prestação de contas sobre as práticas que são desempenhadas por agentes estatais, o que abre espaço para que haja a devida
-apuração pública dessas atividades e, por consequência, uma maior incidência da sociedade na condução dessas organizações públicas. A importância
-dessas obrigações estatais é o que motiva, por exemplo, a necessidade de publicização de decisões judiciais, a transmissão pública de sessões colegiadas
-de órgãos pertencentes aos três Poderes da União, a divulgação detalhada das despesas gastas por atores públicos, entre diversos outros exemplos.
-Além disso, os dados fornecidos pelos órgãos do Poder Público representam um ativo de extrema importância para diversos setores da sociedade – possibilitando 
-o fomento tanto de lutas por direitos por parte de entidades representativas de parcelas da sociedade quanto de estudos e pesquisas científicas, atividades comerciais,
+A abertura de dados públicos representa um fator essencial para a manutenção de regimes democráticos. Através dessas práticas de 
+transparência,torna-se possível uma prestação de contas sobre as práticas que são desempenhadas por agentes estatais, o que abre espaço
+para que haja a devidaapuração pública dessas atividades e, por consequência, uma maior incidência da sociedade na condução dessas
+organizações públicas. A importânciadessas obrigações estatais é o que motiva, por exemplo, a necessidade de publicização de decisões
+judiciais, a transmissão pública de sessões colegiadasde órgãos pertencentes aos três Poderes da União, a divulgação detalhada das 
+despesas gastas por atores públicos, entre diversos outros exemplos.
+Além disso, os dados fornecidos pelos órgãos do Poder Público representam um ativo de extrema importância para diversos setores da 
+sociedade – possibilitando o fomento tanto de lutas por direitos por parte de entidades representativas de parcelas da sociedade
+quanto de estudos e pesquisas científicas, atividades comerciais,
 entre outros.
 
 
