@@ -1,0 +1,64 @@
+
+
+
+1 – Explique as diferenças entre
+3 linguagens de programação: 
+
+As diferenças entre três 
+linguagens de programação populares: 
+Python, Java e JavaScript
+1. **Python:**
+   - Python é uma linguagem de programação 
+de alto nível conhecida por sua sintaxe limpa 
+e legibilidade.
+   - É frequentemente usada em desenvolvimento 
+web, análise de dados, automação de tarefas e IA.
+   - Python é interpretada, o que significa que 
+o código é executado linha por linha por um 
+interpretador.
+   - É uma linguagem multiparadigma, o que significa 
+que 
+suporta programação procedural, orientada 
+a objetos e funcional.
+
+2. **Java:**
+   - Java é uma linguagem de programação 
+amplamente usada para desenvolvimento de 
+aplicativos empresariais e para dispositivos 
+móveis Android.
+   - É uma linguagem orientada a objetos, 
+onde os programas são organizados em classes 
+e objetos.
+   - Java é compilada, o que significa que o 
+código fonte é convertido em bytecode que é 
+executado na máquina virtual Java (JVM).
+   - É conhecida por sua portabilidade, segurança 
+e robustez.
+
+3. **JavaScript:**
+   - JavaScript é uma linguagem de programação 
+de alto nível, principalmente usada para criar interatividade 
+em páginas da web.
+   - É uma linguagem interpretada, executada diretamente pelos 
+navegadores sem a necessidade de compilação.
+   - JavaScript é essencial para o desenvolvimento front-end, 
+mas também é amplamente usado no desenvolvimento de aplicativos 
+back-end (Node.js).
+   - É uma linguagem baseada em protótipos, o que significa que 
+os objetos são criados por meio de protótipos em vez de classes.
+
+Essas são apenas algumas das diferenças principais entre essas 
+três linguagens, cada uma tem suas próprias características, usos 
+e comunidades de desenvolvedores.
+
+a. Tente fazer um código mínimo em cada uma delas; 
+
+print("Hello, world!")
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+
+console.log("Hello, world!");
