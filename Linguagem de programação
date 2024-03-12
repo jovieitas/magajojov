@@ -1,0 +1,15 @@
+Trabalho 
+
+# Exemplo de loop que imprime os números de 1 a 5
+for i in range(1, 6):
+    print(i)
+
+# Exemplo de tomada de decisão que verifica se um número é positivo, negativo ou zero
+numero = float(input("Digite um número: "))
+
+if numero > 0:
+    print("O número é positivo.")
+elif numero < 0:
+    print("O número é negativo.")
+else:
+    print("O número é zero.")
