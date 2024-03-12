@@ -1,0 +1,31 @@
+Semana 05 - Projeto Integrador 
+Joana Magalhães Vieitas - 202102537096
+
+Exercícios
+
+1 – implemente o algoritmo de ordenação Bubble Sort usando python;
+
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(0, n-i-1):
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+
+# Exemplo de uso:
+arr = [64, 34, 25, 12, 22, 11, 90]
+bubble_sort(arr)
+print("Lista ordenada usando Bubble Sort:", arr)
+
+
+2 – implemente um algorítimo que imprima apenas as vogais de uma
+determinada palavra ou frase.
+
+def print_vowels(text):
+    vowels = "aeiouAEIOU"
+    vowel_list = [char for char in text if char in vowels]
+    print("Vogais na palavra ou frase:", ''.join(vowel_list))
+
+# Exemplo de uso:
+text = "Olá, mundo!"
+print_vowels(text)
