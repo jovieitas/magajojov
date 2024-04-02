@@ -1,0 +1,89 @@
+Lista de Exercícios
+Programação e Direito
+Joana Magalhães Vieitas – 202102537096
+
+1) No contexto da ubiquidade da computação, explique brevemente porque é vantajoso dominar seus conceitos fundamentais ao lidar com o Direito.
+Este ajuda a compreender questões legais relacionadas à tecnologia, como proteção de dados, direitos autorais em software, responsabilidade por danos causados
+por algoritmos, entre outros, além de facilitar a análise e interpretação de evidências digitais em processos judiciais.
+2) Muitos termos são usados no nosso cotidiano com um significado, mas apresentam outro, geralmente mais preciso, em determinada área do conhecimento. 
+Não seria diferente com os termos da computação. Considerando esse fato, explique o que significa, na área da computação, os seguintes termos:
+a) Algoritmo: Um conjunto de instruções passo a passo para resolver um problema ou realizar uma tarefa específica. 
+b) Nuvem: Refere-se a serviços de armazenamento, processamento e gerenciamento de dados em servidores remotos, acessíveis pela internet. 
+c) Servidor: Um computador ou sistema que fornece recursos, serviços ou dados para outros computadores em uma rede. 
+d) Neutralidade da rede: Princípio que defende que todos os dados na internet devem ser tratados de forma igualitária, sem discriminação por tipo de conteúdo, 
+provedor de serviço ou aplicativo. 
+e) Arquivo: Uma unidade de armazenamento digital que contém dados ou informações, organizados de acordo com um formato específico.
+
+3) A realidade é infinitamente complexa e o mundo é multifacetado. Dito isso, explique como podemos organizar na palavra Internet conceitos diferentes como máquinas,
+cabos, programas e dados? 
+As máquinas referem-se aos dispositivos (computadores, servidores, roteadores) conectados à internet, enquanto os cabos representam a infraestrutura física (cabos de fibra
+óptica, cabos de rede) que interliga as máquinas na internet. Já os programas são os softwares e aplicativos utilizados para acessar e interagir com a internet, e os dados 
+são as informações transmitidas e armazenadas na internet, como textos, imagens e vídeos.
+4) Sabendo que computadores precisam ser programados precisamente para realizar suas tarefas, e que, então, só repetiriam o que humanos já sabem fazer, por que eles foram 
+inventados?
+Os computadores foram inventados para automatizar tarefas, processar dados de forma rápida e eficiente, armazenar grandes quantidades de informações e facilitar a comunicação
+entre pessoas e sistemas.
+5) Por que uma rede neural artificial não pode tomar decisões médicas ou de concessão de empréstimos, por exemplo. Existe algum algoritmo ou modelo de IA que poderia ser
+utilizado em algum dos casos em pauta? Se sim, por que e em qual?
+As redes neurais artificiais não podem tomar decisões médicas ou de concessão de empréstimos devido à falta de compreensão contextual, ética e interpretação ampla dos dados.
+Algoritmos de IA, como os baseados em lógica fuzzy ou em aprendizado supervisionado, podem ser utilizados em contextos específicos, desde que sejam treinados e validados de 
+forma adequada para o problema em questão.
+6) O que diferencia um arquivo “binário” de um arquivo “de texto”?
+Um arquivo "binário" é composto por dados codificados em formato binário (0s e 1s), enquanto um arquivo "de texto" contém caracteres legíveis diretamente pelo usuário, como
+letras, números e símbolos.
+7) O que diferencia um formato proprietário de arquivos e um formato aberto de arquivos. Contextualize no cenário da divulgação e manutenção de dados públicos.
+Um formato proprietário de arquivos é controlado por uma empresa ou entidade e pode ter restrições de uso, interoperabilidade e acesso. Já um formato aberto de arquivos é
+baseado em padrões abertos e pode ser utilizado livremente por qualquer pessoa ou sistema, promovendo a transparência e a interoperabilidade de dados.
+8) O que diferencia, no contexto da computação, um protocolo de comunicação aberto de um protocolo de comunicação proprietário? Contextualize no cenário da liberdade econômica
+e do desenvolvimento de novas aplicações para internet.
+Um protocolo de comunicação aberto é baseado em padrões públicos e pode ser utilizado por diferentes sistemas e desenvolvedores sem restrições significativas, favorecendo 
+a inovação, a concorrência e a liberdade de escolha. E este protocolo é controlado por uma entidade específica e pode ter limitações de uso, interoperabilidade e acesso, o
+que pode afetar negativamente a diversidade e a competitividade no mercado de tecnologia.
+9) Sobre o “sistema operacional”:
+ a) O que é um sistema operacional e qual a sua relação com os programas do computador e seus componentes físicos? 
+Um sistema operacional é um software responsável por gerenciar os recursos do computador (como CPU, memória, dispositivos de entrada e saída) e permitir a execução de
+programas. 
+b) Existe apenas um sistema operacional disponível? 
+Sim, existem vários sistemas operacionais disponíveis, como Windows, macOS, Linux, Android, iOS, entre outros.
+c) Vender computadores obrigatoriamente ativados com um sistema operacional pode ser considerado “venda casada”? Explique. 
+Vender computadores com um sistema operacional pré-instalado pode ser considerado "venda casada" se não houver opção clara e acessível para o consumidor escolher outro
+sistema operacional ou optar por um computador sem sistema operacional.
+10) Sobre a LGPD:
+ a) Sua abrangência inclui datacenters em países estrangeiros? Explique. 
+A Lei Geral de Proteção de Dados (LGPD) do Brasil se aplica a dados pessoais coletados, armazenados, processados ou compartilhados por empresas e organizações,
+independentemente de onde estejam localizados os datacenters. 
+b) Na sua opinião, os servidores de aplicação agem de maneira adequada atualmente: 
+1) no tocante ao conteúdo em desacordo com suas regras de comunidade? Explique. 
+No tocante ao conteúdo em desacordo com as regras de comunidade, os servidores devem agir de acordo com as políticas e diretrizes estabelecidas para manter um ambiente
+online seguro e ético.
+2) em relação ao conteúdo que destrói reputações, sabidamente falso? Explique.
+Em relação ao conteúdo difamatório ou falso, os servidores devem adotar medidas para detectar e mitigar a disseminação de informações prejudiciais, seguindo as normas
+legais e éticas aplicáveis.
+11) No contexto da linguagem de programação Python: 
+a) Quais as estruturas de repetição utilizadas? 
+As estruturas de repetição utilizadas são o "for" e o "while".
+b) Como são definidos os blocos de comando? 
+Os blocos de comando são definidos pela indentação, ou seja, pela quantidade de espaços ou tabs antes de cada linha de código.
+c) Quais as duas principais operações realizadas pelo operador +? Explique brevemente cada uma delas.
+As duas principais operações realizadas pelo operador "+" são a concatenação de strings (junção de duas ou mais strings em uma) e a adição de números (soma de valores 
+numéricos).
+ d) O que é uma função? 
+Uma função é um bloco de código reutilizável que executa uma tarefa específica quando chamado.
+e) Como definimos uma função? 
+Para definir uma função em Python, utiliza-se a palavra-chave "def" seguida pelo nome da função e seus parâmetros, seguidos pelos dois pontos e o bloco de código da função.
+f) Quais as estruturas de tomada de decisão da linguagem? Construa um exemplo de cada uma delas.
+As estruturas de tomada de decisão na linguagem Python são o "if", "elif" (abreviação de "else if") e "else", que permitem executar diferentes blocos de código com base
+em condições lógicas. 
+Um exemplo de cada uma delas seria:
+# Estrutura if
+idade = 18
+if idade >= 18:
+    print("Você é maior de idade.")
+# Estrutura elif
+nota = 7
+if nota >= 9:
+    print("Aprovado com louvor.")
+elif nota >= 7:
+    print("Aprovado.")
+else:
+    print("Reprovado.")
